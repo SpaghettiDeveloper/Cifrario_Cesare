@@ -1,5 +1,7 @@
 /*
-Cifrario di Cesare scritto in C++
+// Cifrario di Cesare
+// @Autore: Stefano Peris <SpaghettiDeveloper>
+// @eMail: stefano.peris.dev@gmail.com
 
 ********** Note importanti **********
 1. Modificare algoritmo di scorrimento.
