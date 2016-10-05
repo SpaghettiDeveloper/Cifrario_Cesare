@@ -11,6 +11,7 @@ Cifrario di Cesare scritto in C++
 #include <cstring>
 #include <cstdio>
 #include <cctype>
+
 using namespace std;
 
 #define MAX 200
